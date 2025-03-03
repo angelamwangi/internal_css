@@ -1,0 +1,25 @@
+body{
+    margin:10px;
+    background-color:rgb(234, 189, 230);
+}
+#title{
+       font-size:30px;
+       color:#E53888;
+}
+.sub_heading{
+    text-align:center;
+    color:#7D1C4A;
+}
+.sub_heading2{
+    text-align:center;
+    color:#7D1C4A;
+    
+}
+.heading3{
+    color:#FFFFFF
+
+}
+#heading3{
+    color:#0D4715
+}
+/*Goes to show that ID over ride classes*/

@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #EFB6C8;
+    color:black;
+}
+h1{
+    background-color:white;
+    width:150px;
+    margin:15px;
+    padding:10px 10px 10px 10px;
+    border-width:5px;
+    border-color:#441752;
+    border-style:solid;
+}
+h3{
+    padding:30px 30px 30px 30px;
+    border: groove 7px;
+}
+h4{
+    border-top: ridge #A294F9 10px;
+    border-right:10px dotted#CDC1FF;
+    border-bottom: #E5D9F2 groove 10px;
+    border-left:#F5EFFF 10px solid 
+}
